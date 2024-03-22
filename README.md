@@ -18,5 +18,5 @@ this puzzle. The simplified version goes as follows:-
 > Solving this Puzzle using FOL (Python)
 
 ## Collaborators
-- Roaa Fathi
-- Basma Mahmoud 
+- [Roaa Fathi](https://github.com/rFathi03)
+- [Basma Mahmoud ](https://github.com/Basma2423)
